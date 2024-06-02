@@ -36,6 +36,6 @@ After clicking on the Done Button, it give the result:
 <br>
 <h3> Live Link </h3>
 
-<a href=""> click it! </a>
+<a href="https://udaibhat.github.io/TYPING_SPEED_TEST-website/"> click it! </a>
 
 
